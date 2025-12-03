@@ -19,7 +19,7 @@ export function FeaturedProducts() {
           className="text-center mb-12"
         >
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
-            {t.products.title}
+            Produto<span className="text-red-600">s</span>
           </h2>
           <p className="text-gray-600 mt-2">
             {t.products.availableOffers}
