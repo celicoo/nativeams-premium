@@ -48,7 +48,7 @@ const blogPosts = [
     title: "Understanding Terpenes: The Aromatic Compounds in CBD",
     excerpt:
       "Learn about terpenes, the natural compounds that give CBD products their unique aromas and may enhance their effects.",
-    image: "https://images.unsplash.com/photo-1560999448-17b3e8c7d2be?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&q=80",
     author: "Dr. Lisa van Berg",
     date: "October 28, 2024",
     readTime: "7 min read",

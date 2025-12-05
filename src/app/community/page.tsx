@@ -76,7 +76,7 @@ const communityPosts = [
 const instagramPosts = [
   "https://images.unsplash.com/photo-1603909223429-69bb7101f420?w=300&h=300&fit=crop",
   "https://images.unsplash.com/photo-1556928045-16f7f50be0f3?w=300&h=300&fit=crop",
-  "https://images.unsplash.com/photo-1560999448-17b3e8c7d2be?w=300&h=300&fit=crop",
+  "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=300&h=300&fit=crop",
   "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=300&h=300&fit=crop",
   "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=300&h=300&fit=crop",
   "https://images.unsplash.com/photo-1586158291800-2665f07bba79?w=300&h=300&fit=crop",
